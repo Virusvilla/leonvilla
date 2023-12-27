@@ -1,0 +1,31 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="willow.us" tvg-name="WILLOW CRICKET" tvg-chno="130" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports", WILLOW CRICKET
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/40436
+#EXTINF: -1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-chno="131" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="Sports", Sky Sports Cricket
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/78148
+#EXTINF: -1 tvg-id="Sky Sports Football HD" tvg-name="Sky Sports Football HD" tvg-chno="132" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png" group-title="Sports", Sky Sports Football HD
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/78150
+#EXTINF: -1 tvg-id="Euro Sport 1 HD" tvg-name="Euro Sport 1 HD" tvg-chno="133" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/eurosport-in.png?raw=true" group-title="Sports", Euro Sport 1 HD
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/86292
+#EXTINF: -1 tvg-id="Euro Sport 2 HD" tvg-name="Euro Sport 2 HD" tvg-chno="134" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true" group-title="Sports", Euro Sport 2 HD
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/86293
+#EXTINF: -1 tvg-id="SPORTS 18 KHEL" tvg-name="SPORTS 18 KHEL" tvg-chno="135" tvg-logo="http://tv.cloudcdn.me/images/2155cf6.png" group-title="Sports", SPORTS 18 KHEL
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="Sony Sports 4 HD" tvg-name="Sony Sports 4 HD" tvg-chno="136" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-4-hd-in.png?raw=true" group-title="Sports", Sony Sports 4 HD
+http://livetvbox.live:8080/live/Anne/Anne/29469.ts
+#EXTINF: -1 tvg-id="Viaplay Xtra HD" tvg-name="Viaplay Xtra HD" tvg-chno="137" tvg-logo="http://tv.cloudcdn.me/images/viaplayxtra.png" group-title="Sports", Viaplay Xtra HD
+http://195.26.87.217/live.ts?channelId=125435&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-id="T Sports HD" tvg-name="T Sports HD" tvg-chno="138" tvg-logo="http://tv.cloudcdn.me/images/tsports.png" group-title="Sports", T Sports HD
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/T_sports/hls/index.m3u8
+#EXTINF: -1 tvg-id="BEIN Sports 3 English HD" tvg-name="BEIN Sports 3 English HD" tvg-chno="139" tvg-logo="http://tv.cloudcdn.me/images/beinsports3english.png" group-title="Sports", BEIN Sports 3 English HD
+http://195.26.87.217/live.ts?channelId=125428&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-id="BEIN Sports 2 English HD" tvg-name="BEIN Sports 2 English HD" tvg-chno="140" tvg-logo="http://tv.cloudcdn.me/images/beinsports2english.png" group-title="Sports", BEIN Sports 2 English HD
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF: -1 tvg-id="BEIN Sports 1 English HD" tvg-name="BEIN Sports 1 English HD" tvg-chno="141" tvg-logo="http://tv.cloudcdn.me/images/cd30f56.png" group-title="Sports", BEIN Sports 1 English HD
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF: -1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-chno="142" tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="Sports", Astro Cricket
+http://go.justflix.tv:80/client101/tuRLZijv18/141
+#EXTINF: -1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-chno="143" tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="Sports", Astro Cricket 2
+http://195.26.87.217/live.ts?channelId=26034&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-id="Willow Cricket Extra" tvg-name="WILLOW XTRA" tvg-chno="144" tvg-logo="https://i.pinimg.com/originals/40/0f/03/400f0311b6674cf72e7d6836816853db.jpg" group-title="Sports", Willow Cricket Extra
+http://supersonictv.live:8080/Ruf04IAN/Ruf04IAN/40437
