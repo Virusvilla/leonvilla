@@ -1,0 +1,25 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="ts8" tvg-name="STAR PLUS HD" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-plus-hd-in.png" group-title="Entertainment", STAR PLUS HD
+http://mega4k.one:8080/98787666/87787655/74778
+#EXTINF: -1 tvg-id="ts244" tvg-name="STAR BHARAT HD" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-bharat-hd-in.png" group-title="Entertainment", STAR BHARAT
+http://mega4k.one:8080/98787666/87787655/74784
+#EXTINF: -1 tvg-id="Star Gold Romance" tvg-name="STAR GOLD ROMANCE" tvg-chno="21" tvg-logo="https://yt3.googleusercontent.com/_FS_nI0XiLtcGZvdzA6YhLF9nUW7_F8c6TkK9YOlC1lfvVykFJJxx58ths3_NJ1_GjSGDul-hPc=s176-c-k-c0x00ffffff-no-rj" group-title="Movies", STAR GOLD ROMANCE
+http://mega4k.one:8080/98787666/87787655/95902
+#EXTINF: -1 tvg-id="ts245" tvg-name="STAR GOLD HD" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-gold-hd-in.png" group-title="Movies", STAR GOLD HD
+http://mega4k.one:8080/98787666/87787655/85208
+#EXTINF: -1 tvg-id="Star Gold Thrills" tvg-name="STAR GOLD THRILLS" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="Movies", STAR GOLD THRILLS
+http://mega4k.one:8080/98787666/87787655/95903
+#EXTINF: -1 tvg-id="STAR MOVIES HD" tvg-name="STAR MOVIES HD" tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-hd-in.png" group-title="Movies", STAR MOVIES HD
+http://mega4k.one:8080/98787666/87787655/74798
+#EXTINF: -1 tvg-id="Star Gold Select HD" tvg-name="Star Gold Select HD" tvg-chno="25" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-gold-select-hd-in.png?raw=true" group-title="Movies", Star Gold Select HD
+http://mega4k.one:8080/98787666/87787655/85209
+#EXTINF: -1 tvg-id="ts24" tvg-name="Star Sports 1 HD Hindi" tvg-chno="120" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="Sports", STAR SPORTS 1
+http://mega4k.one:8080/98787666/87787655/118057
+#EXTINF: -1 tvg-id="ts235" tvg-name="STAR SPORTS 2 HD" tvg-chno="121" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="Sports", STAR SPORTS 2
+ttp://mega4k.one:8080/98787666/87787655/118058
+#EXTINF: -1 tvg-id="STAR SPORTS 3" tvg-name="STAR SPORTS 3" tvg-chno="122" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-3-in.png?raw=true" group-title="Sports", STAR SPORTS 3
+http://mega4k.one:8080/98787666/87787655/118059
+#EXTINF: -1 tvg-id="ts246" tvg-name="STAR SPORTS SELECT 1 HD" tvg-chno="123" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-1-in.png?raw=true" group-title="Sports", STAR SPORTS SELECT 1 HD
+http://mega4k.one:8080/98787666/87787655/118060
+#EXTINF: -1 tvg-id="ts463" tvg-name="STAR SPORTS SELECT 2 HD" tvg-chno="124" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-2-in.png?raw=true" group-title="Sports", STAR SPORTS SELECT 2 HD
+http://mega4k.one:8080/98787666/87787655/118061
